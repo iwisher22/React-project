@@ -1,0 +1,20 @@
+{
+  "save-book-data": [
+    {
+      "id": 1,
+      "author_name": "Tom Crooks",
+      "book_description": "This Book is awesome",
+      "book_id": 1,
+      "book_name": "The glance",
+      "Cover_img": "https://fakeimg.pl/350x200/ff0000/000"
+    },
+    {
+      "book_id": "cmdcdjkdnfjk",
+      "book_name": "lcmdkcmdk",
+      "book_description": "ldcdlkm",
+      "author_name": "l;cldld",
+      "cover_image": ";cdlcd",
+      "id": 2
+    }
+  ]
+}
